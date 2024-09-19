@@ -1,0 +1,10 @@
+bash
+python3
+curl
+git
+ccache
+clang
+cmake
+make
+gmp-dev
+libuv-dev

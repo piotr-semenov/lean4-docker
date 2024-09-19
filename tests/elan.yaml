@@ -1,0 +1,6 @@
+---
+command:
+  elan --version:
+    exit-status: 0
+    stdout:
+      contain-substring: elan {{.Env.elan_version}}
